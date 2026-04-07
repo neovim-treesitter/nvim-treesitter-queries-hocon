@@ -1,7 +1,7 @@
 {
+  "url": "https://github.com/antosha417/tree-sitter-hocon",
   "semver": false,
   "parser_version": "c390f10519ae69fdb03b3e5764f5592fb6924bcc",
   "location": null,
-  "lang": "hocon",
-  "url": "https://github.com/antosha417/tree-sitter-hocon"
+  "lang": "hocon"
 }
